@@ -27,6 +27,7 @@ class listener implements EventSubscriberInterface
 
 	/** @var \phpbb\db\driver\driver_interface */
 	protected $db;
+
 	/**
 	* Constructor
 	* @param \phpbb\template\template			$template

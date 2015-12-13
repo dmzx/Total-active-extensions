@@ -1,5 +1,7 @@
 # Total Active Extensions Extension
 
+[![Build Status](https://travis-ci.org/dmzx/Total-active-extensions.svg?branch=master)](https://travis-ci.org/dmzx/Total-active-extensions)
+
 ## Install
 
 1. Download the latest release.
